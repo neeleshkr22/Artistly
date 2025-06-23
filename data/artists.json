@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "category": ["Singer", "Performer"],
+    "priceRange": "$500-1000",
+    "location": "New York, NY",
+    "bio": "Professional vocalist with 10+ years experience in jazz and contemporary music.",
+    "languages": ["English", "Spanish"],
+    "image": "https://images.unsplash.com/photo-1517230878791-4d28214057c2?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.8,
+    "reviews": 24
+  },
+  {
+    "id": 2,
+    "name": "Marcus Chen",
+    "category": ["DJ", "Producer"],
+    "priceRange": "$300-800",
+    "location": "Los Angeles, CA",
+    "bio": "Electronic music producer and DJ specializing in house and techno.",
+    "languages": ["English", "Mandarin"],
+    "image": "https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.9,
+    "reviews": 31
+  },
+  {
+    "id": 3,
+    "name": "Isabella Rodriguez",
+    "category": ["Dancer", "Choreographer"],
+    "priceRange": "$400-900",
+    "location": "Miami, FL",
+    "bio": "Contemporary and Latin dance specialist with international performance experience.",
+    "languages": ["English", "Spanish", "Portuguese"],
+    "image": "https://images.unsplash.com/photo-1521198022873-af0f772bf653?q=80&w=1137&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.7,
+    "reviews": 18
+  },
+  {
+    "id": 4,
+    "name": "David Thompson",
+    "category": ["Speaker", "Motivational Coach"],
+    "priceRange": "$1000-2500",
+    "location": "Chicago, IL",
+    "bio": "Keynote speaker and business coach with expertise in leadership and innovation.",
+    "languages": ["English"],
+    "image": "https://images.unsplash.com/photo-1560439514-e960a3ef5019?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3DS",
+    "rating": 4.9,
+    "reviews": 42
+  },
+  {
+    "id": 5,
+    "name": "Aisha Patel",
+    "category": ["Singer", "Songwriter"],
+    "priceRange": "$600-1200",
+    "location": "Austin, TX",
+    "bio": "Indie folk singer-songwriter with a unique blend of traditional and modern sounds.",
+    "languages": ["English", "Hindi"],
+    "image": "https://images.unsplash.com/photo-1521417531039-75e91486cc40?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c2luZ2VyfGVufDB8fDB8fHww",
+    "rating": 4.6,
+    "reviews": 15
+  },
+  {
+    "id": 6,
+    "name": "Jake Williams",
+    "category": ["DJ", "MC"],
+    "priceRange": "$250-600",
+    "location": "Nashville, TN",
+    "bio": "Wedding and corporate event DJ with over 8 years of experience.",
+    "languages": ["English"],
+    "image": "https://images.unsplash.com/photo-1512830414785-9928e23475dc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHNpbmdlcnxlbnwwfHwwfHx8MA%3D%3D",
+    "rating": 4.8,
+    "reviews": 28
+  }
+]
