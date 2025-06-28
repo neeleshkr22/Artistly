@@ -216,6 +216,7 @@ export default function HomePage() {
               {categories.map((category, index) => (
                 <StaggerItem key={category.title}>
                   <Card
+                  //@ts-ignore
                     ref={(el) => (cardRefs.current[index] = el)}
                     className="hover:shadow-2xl transition-all duration-300 cursor-pointer group overflow-hidden border-0 shadow-lg bg-card"
                     onMouseEnter={() => handleCardHover(index)}
